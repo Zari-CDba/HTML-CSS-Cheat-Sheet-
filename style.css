@@ -1,0 +1,27 @@
+.heading{
+text-align:center;
+font-family: Impact,'Arial Narrow Bold', sans-serif;
+font-weight: bold;
+text-decoration: underline;
+text-decoration-color: black;
+padding: 25px;
+}
+
+.boxes{
+    text-align: center;
+    font-size: 16px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border: 1px solid black;
+    border-width: 5px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+margin-left: 85px;
+margin-right: 85px;
+margin-bottom: 30px;
+border-radius: 8px;
+background-color: #FCD4E2;
+ button 
+
+}
+
