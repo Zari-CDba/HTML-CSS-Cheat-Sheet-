@@ -1,3 +1,7 @@
+.body{
+    background-color: #B0C4DE;
+}
+
 .heading{
 text-align:center;
 font-family: Impact,'Arial Narrow Bold', sans-serif;
@@ -7,13 +11,6 @@ text-decoration-color: black;
 padding: 25px;
 }
 
-
-
-
-
-
-
-}
 .buttons:hover{
     background-color: #FC8E44;
     color: white;
@@ -22,6 +19,7 @@ padding: 25px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 
 }
+
 .buttons{
     text-align: center;
     font-size: 16px;
@@ -36,10 +34,33 @@ margin-right: 85px;
 margin-bottom: 30px;
 border-radius: 8px;
 background-color: #ffffff; 
-
-.buttons{
-    text-align: center;
 }
 
+.nexttocss{
+    padding-top: 550px;
+    padding-bottom: 0px;
+    padding-left: 1075px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-bottom: 0px;
 
+}
+
+.backtomainpage{
+    padding-bottom: 0px;
+    padding-right: 1015px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.cheath1{
+    text-align: center;
+    text-decoration: underline;
+    border: 2px;
+    border-style: dashed;
+    border-radius:25px;
+    border-width: 5px;
+    margin-left: 300px;
+    margin-right: 300px;
 }
