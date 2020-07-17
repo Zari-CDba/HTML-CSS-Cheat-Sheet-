@@ -7,56 +7,11 @@ text-decoration-color: black;
 padding: 25px;
 }
 
-.css{
-    text-align: center;
-    font-size: 16px;
-    background-color: rgb(255, 255, 255);
-    color: black;
-    border: 1px solid black;
-    border-width: 5px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-margin-left: 85px;
-margin-right: 85px;
-margin-bottom: 30px;
-border-radius: 8px;
-background-color: #FCD4E2; 
-box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 
-}
 
-.git{
-    text-align: center;
-    font-size: 16px;
-    background-color: rgb(255, 255, 255);
-    color: black;
-    border: 1px solid black;
-    border-width: 5px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-margin-left: 85px;
-margin-right: 85px;
-margin-bottom: 30px;
-border-radius: 8px;
-background-color: #FCD4E2; 
-box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-}
 
-.shortcuts{
-    text-align: center;
-    font-size: 16px;
-    background-color: rgb(255, 255, 255);
-    color: black;
-    border: 1px solid black;
-    border-width: 5px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-margin-left: 85px;
-margin-right: 85px;
-margin-bottom: 30px;
-border-radius: 8px;
-background-color: #FCD4E2; 
-box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+
 
 }
 .buttons:hover{
@@ -87,11 +42,4 @@ background-color: #ffffff;
 }
 
 
-.h2{
-    text-align: left;
-font-weight: bold ;
-}
-
-.body{
-    background-color: bisque;
 }
