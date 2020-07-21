@@ -12,6 +12,44 @@
            <h1> Cheating with GIT </h1> 
             </div>
 
+<div class= "box1">
+            <h3 class = "box1tittle">Making Changes</h3>
+            <ul>
+        <b>  $ git log </b>>
+<li>Lists version history for the current branch</li>
+        <b>$ git log --follow [file]</b>
+<li>Lists version history for a file, including renames</li>
+<b>$ git diff [first-branch]...[second-branch]</b>
+<li>Shows content differences between two branches</li>
+<b>$ git add [file]</b>
+<li>Snapshots the file in preparation for versioning</li>
+<b>$ git show [commit]</b>
+<li>Outputs metadata and content changes of the specified commit</li>
+            </ul>
+</div>
+
+<div class= "box2">
+    <h3 class = "box2tittle">Redo Commits</h3>
+<ul>
+<b> $ git reset [commit]</b>
+<li>Undoes all commits after [commit], preserving changes locally</li>
+<b>$ git reset --hard [commit]</b>
+<li>Discards all history and changes back to the specified commit</li>
+</ul>
+</div>
+
+<div class= "box3">
+    <h3 class = "box2tittle"> Configure Tooling</h3>
+    <ul>
+       <b> $ git config --global user.name "[name]"</b>
+<li> Sets the name you want attached to your commit transactions </li>
+      <b>  $ git config --global color.ui auto</b>
+<li>Enables helpful colorization of command line output</li>
+<b>$ git config --global user.email "[email address]"</b>
+<li>Sets the email you want attached to your commit transactions</li>
+    </ul>
+</div>
+
             <div class= "next to cpu">     
                 <a href="cheat.cpushortcuts.html">NEXT to CPU Shortcuts</a>
                        </div>
