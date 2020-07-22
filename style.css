@@ -7,7 +7,7 @@ text-align:center;
 font-family: Impact,'Arial Narrow Bold', sans-serif;
 font-weight: bold;
 text-decoration: underline;
-text-decoration-color: black;
+text-decoration-color: white;
 padding: 25px;
 }
 
@@ -43,7 +43,6 @@ background-color: #ffffff;
     margin-left:20px;
     margin-right: 20px;
     margin-bottom: 0px;
-
 }
 
 .backtomainpage{
@@ -56,6 +55,7 @@ background-color: #ffffff;
 
 .cheath1{
     text-align: center;
+    text-decoration-color: whitesmoke;
     text-decoration: underline;
     border: 2px;
     border-style: dashed;
@@ -64,6 +64,10 @@ background-color: #ffffff;
     margin-left: 300px;
     margin-right: 300px;
     text-decoration-color: white;
+}
+
+.basic{
+display: flex;
 }
 
 .box1{
@@ -75,7 +79,7 @@ background-color: #ffffff;
     padding-bottom: 35px;
     padding-right: 20px;
     padding-left: 20px;
-    background-color: white;
+    background-color: paleturquoise;
 }
 
 .box2{
@@ -87,7 +91,7 @@ background-color: #ffffff;
     padding-bottom: 35px;
     padding-right: 20px;
     padding-left: 20px;
-    background-color: white;
+    background-color:#ffc6af ;
 }
 
 .box3{
@@ -100,7 +104,7 @@ background-color: #ffffff;
     padding-left: 20px;
     padding-bottom: 35px;
     text-align: left;
-    background-color: white;
+    background-color: #bdffc5;
 }
 
 .imghtml{
@@ -117,7 +121,9 @@ background-color: #ffffff;
   
 }
 
-.img{
-    margin-right: 350px;
-    margin-left: 50px;
-}
+
+table, th, td{
+    border: solid black;
+    background-color: white; 
+    border-collapse: collapse;
+} 
