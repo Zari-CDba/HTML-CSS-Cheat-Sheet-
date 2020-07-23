@@ -37,38 +37,38 @@ background-color: #ffffff;
 }
 
 .nexttocss{
-    padding-top: 550px;
-    padding-bottom: 0px;
+    
+    
     padding-left: 1075px;
-    margin-left:20px;
-    margin-right: 20px;
+    margin-left:0px;
+    margin-right: 0px;
     margin-bottom: 0px;
 }
 
 .backtomainpage{
     padding-bottom: 0px;
     padding-right: 1015px;
-    margin-left:20px;
-    margin-right: 20px;
+    margin-left:0px;
+    margin-right: 0px;
     margin-bottom: 0px;
 }
 
-.cheath1{
+.cheat{
     text-align: center;
-    text-decoration-color: whitesmoke;
-    text-decoration: underline;
+    text-shadow: black;
     border: 2px;
-    border-style: dashed;
+    border-style: solid;
     border-radius:25px;
     border-width: 5px;
     margin-left: 300px;
     margin-right: 300px;
-    text-decoration-color: white;
+    text-decoration: underline;
+    text-decoration-color: black;
+    border-color: solid black;
+    background-color: white;
 }
 
-.basic{
-display: flex;
-}
+
 
 .box1{
     border: solid black;
@@ -108,9 +108,18 @@ display: flex;
 }
 
 .imghtml{
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 50px;
+    margin-right: 10px;
  margin-bottom: 25px;
+ margin-top: 50px ;
+ border: solid black;
+}
+.imgcss{
+    border: solid black;
+    margin-left: 550px;
+    margin-right: 50px;
+    margin-top: 50px;
+   
 }
 
 .body2{
@@ -126,4 +135,59 @@ table, th, td{
     border: solid black;
     background-color: white; 
     border-collapse: collapse;
+    background-color: rgb(247, 202, 247);
 } 
+
+.example{
+border: solid black;
+margin-left: 50px;
+margin-right: 50px;
+margin-top: 30px;
+padding-top: 35px;
+padding-bottom: 35px;
+padding-right: 20px;
+padding-left: 20px;
+background-color: palegoldenrod;
+}
+.size{
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+
+.table{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.task1{
+    background-color: turquoise;
+}
+
+.task{
+    background-color: paleturquoise;
+}
+
+.keystroke1{
+    background-color:palegreen ;
+}
+
+.keystroke{
+    background-color:#bdffc5 ;
+}
+
+.result1{
+    background-color:#ffa885 ;
+}
+
+.result{
+    background-color:#ffc6af  ;
+}
+.imgcpu{
+    margin-left: 325px;
+    margin-right: 200px;
+}
